@@ -15,7 +15,7 @@
 
 - 💬 Ask me about [Django Framework](https://www.djangoproject.com/)
 
-- 📫 Please feel free to contact me: jason.naboth@gmail.com
+- 📫 Please feel free to contact me: jason.naboth@gmail.com 
 
 - 🌱 I currently work at Kobby Technologies Limited.
 
