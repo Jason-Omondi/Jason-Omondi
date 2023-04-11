@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/jason-omondi" target="blank"><img src="https://img.shields.io/twitter/follow/jason-omondi?logo=twitter&style=for-the-badge" alt="jason-omondi" /></a> </p>
 
-- 🔭 I’m currently working on [Blog-App](https://github.com/Jason-Omondi/Blog-App)
+- 🔭 I’m currently working on [Flutter-App-Login](https://github.com/Jason-Omondi/FlutterApp)
 
-- 🌱 I’m currently learning [Django](https://www.php.net/docs.php)
+- 🌱 I’m currently learning [Flutter](https://www.php.net/docs.php)
 
-- 📝 I regularly write articles on(https://dev.to/jasonomondi)
+- 📝 I regularly write articles on [dev.to](https://dev.to/jasonomondi)
 
-- 💬 Ask me about [Django Framework](https://www.djangoproject.com/)
+- 💬 Ask me anything about [Django & Flutter Framework](https://www.djangoproject.com/)
 
-- 📫 Please feel free to contact me: jason.naboth@gmail.com 
+- 📫 Please feel free to contact me at [jason.naboth@gmail.com](https://mail.google.com/) 
 
 - 🌱 I currently work at Kobby Technologies Limited.
 
