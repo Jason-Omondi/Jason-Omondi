@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/jason-omondi" target="blank"><img src="https://img.shields.io/twitter/follow/jason-omondi?logo=twitter&style=for-the-badge" alt="jason-omondi" /></a> </p>
 
-- 🔭 I’m currently working on [Flutter-App-Login](https://github.com/Jason-Omondi/FlutterApp)
+- 🔭 I’m currently working on [chat-bot-ui](https://github.com/Jason-Omondi/chat-bot-ui)
 
 - 🌱 I’m currently learning [Flutter](https://www.php.net/docs.php)
 
