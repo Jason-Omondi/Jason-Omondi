@@ -17,7 +17,7 @@
 
 - 📫 Please feel free to contact me at [jason.naboth@gmail.com](https://mail.google.com/) 
 
-- 🌱 I currently work at Kobby Technologies Limited.
+- 🌱 I currently work at Kobby Technologies Limited as a Junior Mobile Applications Developer.
 
 - Here, you will find my projects and code.
 
