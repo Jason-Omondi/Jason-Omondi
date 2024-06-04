@@ -15,7 +15,7 @@
 
 - 💬 Ask me anything about [Node, ExpressJS & Flutter Framework](https://expressjs.com/en/5x/api.html)
 
-- 📫 Please feel free to contact me at [jason.naboth@gmail.com](https://mail.google.com/) 
+<!-- 📫 Please feel free to contact me at [jason.naboth@gmail.com](https://mail.google.com/) -->
 
 - 🌱 I currently work at Kobby Technologies Limited as a FullStack Mobile Applications Developer.
 
