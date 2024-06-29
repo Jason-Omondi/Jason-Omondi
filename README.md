@@ -1,6 +1,6 @@
 [![MasterHead](https://gshock.casio.com/content/casio/locales/us/en/brands/gshock/products/collection/limited/_jcr_content/root/responsivegrid/container_copy_copy_/item_1657220189523_c.casiocoreimg.gif/1670625434357/gshock-universe-character-animation-site-banner-illustrationfade-bg-1920x612-%281%29.gif)](https://www.instagram.com/jason-omondi/)
-<h1 align="center">Hello there 👋, I'm Jason Omondi</h1>
-<h3 align="center">A proactive software developer from Nairobi Kenya</h3>
+<h1 align="center">Hi 👋! I'm Jason Omondi</h1>
+<h3 align="center">A proactive software engineer from Nairobi Kenya</h3>
 <img align="right" alt="Coding" width="200" src="https://img.icons8.com/?size=100&id=qtCMtMWQphXg&format=png&color=000000">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jason-omondi&label=Profile%20views&color=0e75b6&style=flat" alt="jason-omondi" /> </p>
@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working a Sports Application [Sports Center](https://github.com/Jason-Omondi/sports-mobile-app)
 
-- 🌱 I love building full-stack mobile apps with [Flutter](https://www.pub.dev) and [ExpressJS](https://expressjs.com/en/5x/api.html)
+- 🌱 I love building mobile apps with [Flutter](https://www.pub.dev) and [NodeJS](https://expressjs.com/en/5x/api.html)
 
-- 📝 I regularly write articles on [dev.to](https://dev.to/jasonomondi)
+- 📝 I also regularly write technical articles on [dev.to](https://dev.to/jasonomondi)
 
 - 💬 Ask me anything about [Node, ExpressJS & Flutter Framework](https://expressjs.com/en/5x/api.html)
 
