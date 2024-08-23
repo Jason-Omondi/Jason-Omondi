@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/jason-omondi" target="blank"><img src="https://img.shields.io/twitter/follow/jason-omondi?logo=twitter&style=for-the-badge" alt="jason-omondi" /></a> </p>
 
-- 🔭 I’m currently working a Sports Application [Sports Center](https://github.com/Jason-Omondi/sports-mobile-app)
+- 🔭 I’m currently working on a microservice-based system [Nexus](https://github.com/Jason-Omondi/nexus-microservies)
 
-- 🌱 I love building mobile apps with [Flutter](https://www.pub.dev) and [NodeJS](https://expressjs.com/en/5x/api.html)
+- 🌱 I love building apps with [Flutter](https://www.pub.dev) [Java](https://docs.oracle.com/en/java), and [ASP.NET](https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-8.0)
 
 - 📝 I also regularly write technical articles on [dev.to](https://dev.to/jasonomondi)
 
-- 💬 Ask me anything about [Node, ExpressJS & Flutter Framework](https://expressjs.com/en/5x/api.html)
+- 💬 Ask me anything about [Dart, Java, ASP.NET core & Flutter Framework](https://expressjs.com/en/5x/api.html)
 
 <!-- 📫 Please feel free to contact me at [jason.naboth@gmail.com](https://mail.google.com/) -->
 
-- 🌱 I currently work at Kobby Technologies Limited as a FullStack Mobile Applications Developer.
+- 🌱 I currently work as a Software Engineer.
 
 - Here, you will find my projects and code.
 
