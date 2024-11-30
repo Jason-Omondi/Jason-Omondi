@@ -9,7 +9,7 @@
 
 - 🔭 I’m working on a microservice-based system [Nexus](https://github.com/Jason-Omondi/nexus-microservies)
 
-- 🌱 I build apps with [Flutter](https://www.pub.dev) [Java](https://docs.oracle.com/en/java), and [ASP.NET](https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-8.0)
+- 🌱 I build apps with [Dart & Flutter](https://www.pub.dev) [Go](https://docs.oracle.com/en/java), and [ASP.NET](https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-8.0)
 
 - 📝 I also regularly write technical articles on [dev.to](https://dev.to/jasonomondi)
 
