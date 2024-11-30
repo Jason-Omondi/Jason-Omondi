@@ -13,7 +13,7 @@
 
 - 📝 I also regularly write technical articles on [dev.to](https://dev.to/jasonomondi)
 
-- 💬 Ask me anything about [Dart, Java, ASP.NET core & Flutter Framework](https://expressjs.com/en/5x/api.html)
+- 💬 Ask me anything about [Dart, Go, Python, ASP.NET core & Flutter Framework](https://expressjs.com/en/5x/api.html)
 
 <!-- 📫 Please feel free to contact me at [jason.naboth@gmail.com](https://mail.google.com/) -->
 
