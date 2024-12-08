@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/jason-omondi" target="blank"><img src="https://img.shields.io/twitter/follow/jason-omondi?logo=twitter&style=for-the-badge" alt="jason-omondi" /></a> </p>
 
-- 🔭 I’m working on a microservice-based system [Nexus](https://github.com/Jason-Omondi/nexus-microservies)
+- 🔭 I’m working on a microservice-based system: [Platform Servive](https://github.com/Jason-Omondi/nexus-microservies)
 
-- 🌱 I build apps with [Dart & Flutter](https://www.pub.dev) [Go](https://docs.oracle.com/en/java), and [ASP.NET](https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-8.0)
+- 🌱 I build with [Dart & Flutter](https://www.pub.dev) [Go](https://docs.oracle.com/en/java), and [ASP.NET](https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-8.0)
 
-- 📝 I also regularly write technical articles on [dev.to](https://dev.to/jasonomondi)
+- 📝 I also post technical articles on [dev.to](https://dev.to/jasonomondi)
 
 - 💬 Ask me anything about [Dart, Go, Python, ASP.NET core & Flutter Framework](https://expressjs.com/en/5x/api.html)
 
 <!-- 📫 Please feel free to contact me at [jason.naboth@gmail.com](https://mail.google.com/) -->
 
-- 🌱 I currently work as a Software Engineer.
+<!-- 🌱 I currently work as a Software Engineer. -->
 
 - Here, you will find my projects and code.
 
