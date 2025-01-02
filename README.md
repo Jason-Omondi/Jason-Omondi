@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/jason-omondi" target="blank"><img src="https://img.shields.io/twitter/follow/jason-omondi?logo=twitter&style=for-the-badge" alt="jason-omondi" /></a> </p>
 
-- 🔭 I’m working on a microservice-based system: [ESS Platform](https://github.com/Jason-Omondi/nexus-microservies)
+- 🔭 I’m working on a management mobile app: [ESS Platform](https://github.com/Jason-Omondi/nexus-microservies)
 
 - 🌱 I build with [Dart & Flutter](https://www.pub.dev) [Go](https://docs.oracle.com/en/java), and [ASP.NET](https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-8.0)
 
